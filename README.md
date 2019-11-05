@@ -141,7 +141,7 @@ class Meal
   def self.all
     @@all
   end
-end
+end 
 ```
 
 That looks great! And even better, it's going to give both the `customer` and
